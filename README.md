@@ -1,50 +1,146 @@
-# Cao Dinh Tuan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1867C0,50:1976D2,100:06B6D4&height=200&section=header&text=Cao%20Dinh%20Tuan&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Senior%20Software%20Engineer&descSize=20&descAlignY=78&descColor=B3E5FC&animation=fadeIn" width="100%" />
 
-**Senior Software Engineer** — Ho Chi Minh City, Vietnam
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-dinh-tuan-26141141/)
-[![Email](https://img.shields.io/badge/caodinhtuan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:caodinhtuan@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1000&color=1976D2&center=true&vCenter=true&width=640&lines=Building+Scalable+Enterprise+Systems;Laravel+%7C+Vue+3+%7C+TypeScript+%7C+Docker;10%2B+Years+of+Full-Stack+Engineering;Ho+Chi+Minh+City%2C+Vietnam)](https://git.io/typing-svg)
 
----
+<br/>
 
-Full-stack engineer with 10+ years of experience designing and delivering enterprise web applications. Currently at **Nashtech Global**, focused on building scalable multi-domain systems with modern PHP and Vue 3 stacks.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1867C0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cao-dinh-tuan-26141141/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caodinhtuan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caodinhtuan)
 
----
+</div>
 
-## Skills
+<br/>
 
-| Layer | Technologies |
-|---|---|
-| **Backend** | PHP 8, Laravel, Java |
-| **Frontend** | Vue 3, TypeScript, React, Inertia.js, Vuetify, Tailwind CSS |
-| **Database** | MySQL, MariaDB |
-| **Infrastructure** | Docker, Nginx, Linux |
-| **Practices** | Layered Architecture, REST API, Code Review, CI/CD |
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20About%20Me&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
 
----
+Full-stack engineer with **10+ years** of experience designing and delivering enterprise web applications. Currently at **Nashtech Global**, building scalable multi-domain systems with modern PHP and Vue 3 stacks.
 
-## Projects
+- 🏢 **Nashtech Global** — Ho Chi Minh City, Vietnam
+- 🔭 Focused on **enterprise recruitment systems** and **attendance management platforms**
+- 🧱 Advocate for clean **layered architecture** and maintainable codebases
+- 🌱 Continuously exploring modern tooling and engineering best practices
 
-### DYM Recruitment System
-Enterprise recruitment management platform serving HR teams, agents, and applicants across 5 independent web domains. Handles the full hiring lifecycle — job offers, applicant tracking, step-based selection pipelines, and HR reporting.
+<br/>
 
-`Laravel 12` `Vue 3` `Inertia.js` `TypeScript` `Vuetify` `MariaDB` `Docker`  
-*Private repository*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20Skills&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
+
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="140"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PHP%209+-8892BF?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Practices</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Layered%20Architecture-1867C0?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST%20API-06B6D4?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Code%20Review-4FC08D?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20Projects&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
+
+<br/>
+
+### DYM Recruitment System &nbsp; `Private`
+
+Enterprise recruitment management platform serving HR teams, agents, and applicants across **5 independent web domains**. Handles the full hiring lifecycle — job offers, applicant tracking, step-based selection pipelines, and HR reporting.
+
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ### [duli.vn](https://github.com/caodinhtuan/duli.vn)
+
 Travel and tourism web portal for Vietnamese users.
 
-`PHP` `JavaScript`
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### [reactjs-demo](https://github.com/caodinhtuan/reactjs-demo)
+
 Hands-on exploration of React.js — component architecture, state management, routing, and API integration.
 
-`React` `JavaScript` `Node.js`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
----
+<br/>
 
-*Most of my production work lives in private repositories. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/cao-dinh-tuan-26141141/).*
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20GitHub%20Stats&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=caodinhtuan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=1976D2&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caodinhtuan&layout=compact&theme=github_dark&hide_border=true&title_color=1976D2&text_color=c9d1d9&bg_color=0d1117" height="165" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caodinhtuan&bg_color=0d1117&color=1976D2&line=06B6D4&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Most of my production work lives in private repositories.*  
+*Feel free to connect on [LinkedIn](https://www.linkedin.com/in/cao-dinh-tuan-26141141/).*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1976D2,100:1867C0&height=120&section=footer" width="100%" />
