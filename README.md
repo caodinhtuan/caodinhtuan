@@ -35,9 +35,9 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
   <tr>
     <td align="center" width="140"><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PHP%209+-8892BF?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP%208+-8892BF?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel%2010.x+-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -56,6 +56,8 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
     </td>
   </tr>
   <tr>
