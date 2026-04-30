@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1867C0,50:1976D2,100:06B6D4&height=200&section=header&text=Cao%20Dinh%20Tuan&fontSize=52&fontColor=ffffff&fontAlignY=58&desc=Senior%20Software%20Engineer&descSize=20&descAlignY=78&descColor=B3E5FC&animation=fadeIn" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1867C0,50:1976D2,100:06B6D4&height=250&section=header&text=Cao%20Dinh%20Tuan&fontSize=70&animation=twinkling&fontAlignY=35&desc=Senior%20Software%20Engineer&descAlignY=55&descAlign=62&fontColor=ffffff" width="100%"/>
+</div>
 
 <div align="center">
 
