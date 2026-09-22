@@ -129,19 +129,6 @@ Hands-on exploration of React.js — component architecture, state management, r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=caodinhtuan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=1976D2&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caodinhtuan&layout=compact&theme=github_dark&hide_border=true&title_color=1976D2&text_color=c9d1d9&bg_color=0d1117" height="165" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caodinhtuan&bg_color=0d1117&color=1976D2&line=06B6D4&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 *Most of my production work lives in private repositories.*  
 *Feel free to connect on [LinkedIn](https://www.linkedin.com/in/cao-dinh-tuan-26141141/).*
 
