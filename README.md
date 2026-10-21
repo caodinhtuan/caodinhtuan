@@ -56,7 +56,7 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
   <tr>
     <td align="center"><strong>Database</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squf723d7768697465are&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -101,6 +101,26 @@ Enterprise recruitment management platform serving HR teams, agents, and applica
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### [Rust Commerce — Catalog API & Web](https://github.com/caodinhtuan/rust-simple)
+
+An end-to-end Rust project combining a **21-chapter Rust Book learning CLI** with
+a production-style catalog app. The backend provides relational CRUD for products,
+inventory, customers and orders; the Rust/WASM frontend offers interactive management
+screens and a runnable source browser.
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-6B4FBB?style=flat-square)
+![Leptos](https://img.shields.io/badge/Leptos-7C3AED?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Highlights:** Axum + SQLx/SQLite API, Leptos CSR frontend, migrations and relational
+domain modeling, TDD integration tests, OpenAPI/Swagger, structured logging, pagination,
+seed data, and Rust performance benchmarks.
 
 ---
 
