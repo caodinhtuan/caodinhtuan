@@ -18,12 +18,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20About%20Me&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
 
-Full-stack engineer with **10+ years** of experience designing and delivering enterprise web applications. Currently at **Nashtech Global**, building scalable multi-domain systems with modern PHP and Vue 3 stacks.
+I'm **Cao Dinh Tuan**, a senior software engineer based in **Ho Chi Minh City, Vietnam**, with **10+ years** of experience designing and delivering enterprise web applications.
 
-- 🏢 **Nashtech Global** — Ho Chi Minh City, Vietnam
-- 🔭 Focused on **enterprise recruitment systems** and **attendance management platforms**
-- 🧱 Advocate for clean **layered architecture** and maintainable codebases
-- 🌱 Continuously exploring modern tooling and engineering best practices
+My work spans backend services, frontend applications, relational databases, and containerized deployments. I focus on making complex business workflows easier to use and codebases easier to maintain.
+
+- 🏢 **Nashtech Global** · Enterprise application development
+- 🔭 **Domain experience:** recruitment workflows and attendance management
+- 🛠️ **Core stack:** PHP, Laravel, Vue 3, TypeScript, and Docker
+- 🧱 **Engineering approach:** layered architecture, REST APIs, code review, and CI/CD
+- 🌱 **Exploring:** Rust, Axum, and Leptos through a catalog application
 
 <br/>
 
@@ -40,6 +43,8 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
       <img src="https://img.shields.io/badge/PHP%208+-8892BF?style=flat-square&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel%2010.x+-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axum-6B4FBB?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -56,10 +61,11 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
   <tr>
     <td align="center"><strong>Database</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-squf723d7768697465are&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -92,7 +98,9 @@ Full-stack engineer with **10+ years** of experience designing and delivering en
 
 ### DYM Recruitment System &nbsp; `Private`
 
-Enterprise recruitment management platform serving HR teams, agents, and applicants across **5 independent web domains**. Handles the full hiring lifecycle — job offers, applicant tracking, step-based selection pipelines, and HR reporting.
+Enterprise recruitment management platform serving HR teams, agents, and applicants across **5 independent web domains**.
+
+**Highlights:** Job offers, applicant tracking, step-based selection pipelines, and HR reporting across the hiring lifecycle.
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -106,10 +114,10 @@ Enterprise recruitment management platform serving HR teams, agents, and applica
 
 ### [Rust Commerce — Catalog API & Web](https://github.com/caodinhtuan/rust-simple)
 
-An end-to-end Rust project combining a **21-chapter Rust Book learning CLI** with
-a production-style catalog app. The backend provides relational CRUD for products,
-inventory, customers and orders; the Rust/WASM frontend offers interactive management
-screens and a runnable source browser.
+A Rust learning and application project combining a **21-chapter Rust Book CLI** with
+a catalog management app. The backend manages products, inventory, customers, and
+orders; the Rust/WebAssembly frontend provides interactive management screens and
+a runnable source browser.
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-6B4FBB?style=flat-square)
@@ -118,9 +126,9 @@ screens and a runnable source browser.
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Highlights:** Axum + SQLx/SQLite API, Leptos CSR frontend, migrations and relational
-domain modeling, TDD integration tests, OpenAPI/Swagger, structured logging, pagination,
-seed data, and Rust performance benchmarks.
+**Highlights:** Axum API with SQLx and SQLite, Leptos frontend, database migrations,
+relational domain modeling, integration tests, OpenAPI/Swagger documentation,
+structured logging, pagination, seed data, and performance benchmarks.
 
 ---
 
@@ -135,7 +143,7 @@ Travel and tourism web portal for Vietnamese users.
 
 ### [reactjs-demo](https://github.com/caodinhtuan/reactjs-demo)
 
-Hands-on exploration of React.js — component architecture, state management, routing, and API integration.
+React learning project covering component architecture, state management, routing, and API integration.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -143,14 +151,15 @@ Hands-on exploration of React.js — component architecture, state management, r
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20GitHub%20Stats&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1867C0,100:06B6D4&height=50&text=%20%20Let%27s%20Connect&fontSize=22&fontColor=fff&fontAlignY=62" width="100%" />
 
 <br/>
 
 <div align="center">
 
-*Most of my production work lives in private repositories.*  
-*Feel free to connect on [LinkedIn](https://www.linkedin.com/in/cao-dinh-tuan-26141141/).*
+Most of my production work lives in private repositories. The projects above offer a look at my technical interests and hands-on work.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cao-dinh-tuan-26141141/) or reach out by [email](mailto:caodinhtuan@gmail.com).
 
 </div>
 
